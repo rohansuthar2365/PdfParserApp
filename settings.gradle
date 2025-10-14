@@ -1,0 +1,2 @@
+rootProject.name = "PdfParserApp"
+include(":app")
